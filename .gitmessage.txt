@@ -1,0 +1,14 @@
+Subject line :  Keep it short and sweet.
+
+Multi-line description of commit,
+feel free to be detailed.
+If you have a key sign it
+
+[Ticket: X]# - 
+#
+#
+#
+#
+#
+#
+#
